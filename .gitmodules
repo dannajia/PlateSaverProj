@@ -1,0 +1,3 @@
+[submodule "food-forecast"]
+	path = food-forecast
+	url = C:/Program Files/Git/food-forecast
